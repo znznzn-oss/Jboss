@@ -3,6 +3,8 @@
 1)环境准备
 JBOSS 下载地址：http://download.jboss.org/jbossas/6.1/jboss-as-distribution-6.1.0.Final.zip
 EXP 下载地址：https://github.com/yunxu1/jboss-_CVE-2017-12149
+
+
 2)环境搭建
 1、下载Jboss环境，并解压
 Wget http://download.jboss.org/jbossas/6.1/jboss-as-distribution-6.1.0.Final.zip
