@@ -38,3 +38,4 @@ Sh run.sh
 
 [详情内容](https://github.com/znznzn-oss/Jboss)
 
+请勿用于违法行为，后果自负
